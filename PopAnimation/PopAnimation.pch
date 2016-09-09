@@ -1,0 +1,15 @@
+//
+//  PopAnimation.pch
+//  PopAnimation
+//
+//  Created by lx on 16/9/9.
+//  Copyright © 2016年 sunshine. All rights reserved.
+//
+
+#ifndef PopAnimation_pch
+#define PopAnimation_pch
+#ifdef __OBJC__
+#import <pop/POP.h>
+#import <UIKit/UIKit.h>
+#endif
+#endif 
